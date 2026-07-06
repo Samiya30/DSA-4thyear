@@ -45,6 +45,7 @@ public class linkedlist{
         list.addfront(10);
         list.addlast(40);
         list.addlast(50);
+        list.addlast(30);
         list.display();   
     }
 }
